@@ -1,0 +1,18 @@
+==================================================
+		PROVINSI DKI JAKARTA
+		KOTA JAKARTA BARAT
+==================================================
+NIK			: 3303130912020002
+Nama			: Assist
+Tempat/Tgl Lahir	: yk, 9-12-2002
+Jenis Kelamin		: Laki-laki			Gol.Darah: A
+Alamat			: yk
+  	RT/RW		: 1/2
+  	Kel/Desa	: Sewon
+  	Kec		: Sewon
+Agama			: Islam
+Status Perkawinan	: Belum
+Pekerjaan		: Mahasiswa
+Kewarganegaraan		: WNI
+Berlaku Hingga		: SEUMUR HIDUP
+=================================================

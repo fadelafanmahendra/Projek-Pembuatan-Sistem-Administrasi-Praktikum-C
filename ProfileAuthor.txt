@@ -1,0 +1,51 @@
+3303130912020012
+Fadel Afan Mahendra
+Purbalingga
+09
+12
+2002
+1
+1
+Gunungwuled
+006
+001
+Gunungwuled
+Rembang
+0
+1
+Mahasiswa
+0
+3303130912020123
+Puspa Zahara Nurafifa
+Yogyakarta
+25
+12
+2003
+0
+2
+Nitikan
+006
+001
+Sorosutan
+Umbulharjo
+0
+1
+Mahasiswi
+0
+33031309120222222
+Hervia Salsabila
+Pangkalpinang
+10
+01
+2003
+0
+3
+Jl. Depati Hamzah
+003
+001
+Air Itam
+Bukit Intan
+0
+1
+Mahasiswi
+0

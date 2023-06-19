@@ -1,0 +1,18 @@
+==================================================
+		PROVINSI DKI JAKARTA
+		KOTA JAKARTA BARAT
+==================================================
+NIK			: 3303
+Nama			: User
+Tempat/Tgl Lahir	: YK, 9-12-2002
+Jenis Kelamin		: Laki-laki			Gol.Darah: A
+Alamat			: YK
+  	RT/RW		: 1/1
+  	Kel/Desa	: Bantul
+  	Kec		: Sewon
+Agama			: Islam
+Status Perkawinan	: Belum
+Pekerjaan		: Mahasiswa
+Kewarganegaraan		: WNI
+Berlaku Hingga		: SEUMUR HIDUP
+=================================================

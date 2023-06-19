@@ -1,0 +1,12 @@
+===================================
+|		INVOICE		|
+===================================
+Mata Praktikum	:  || Struktur Data || Basis Data || Statistika Informatika || Sistem Operasi || Pemrograman Berorientasi Objek || 
+Harga			: ||  35000 || 32000 || 34000 || 32000 || 10000 || 
+Total			: 143000
+Jumlah bayar	: 150000
+===================================
+Kembali			: 7000
+===================================
+
+		Terima Kasih!		

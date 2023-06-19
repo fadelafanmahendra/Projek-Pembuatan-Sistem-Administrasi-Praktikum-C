@@ -1,0 +1,14 @@
+[03E] 2100018266
+mayor :
+terdapat beberapa miss input dari file (clear)
+minor :
+pada user tidak bisa menampilkn profil pengguna (clear)
+
+[03E] 2100018230
+mayor: Pada saat menginputkan data diri sebagai user,saat menginputkan kelurahan tidak bisa menggunakan spasi. Sehingga variabel kecamatan tidak dapat diisi,langsung loncat ke bagian agama.Alangkah lebih baik jika bisa menggunakan spasi (clear)
+
+minor: pada menu jadwal dibagian asisten tidak bisa menampilkan menu jadwal (clear)
+
+[03E] 2100018258
+Mayor: pada pendaftaran bagian managemen praktikum (admin) tidak muncul apapun (clear)
+Minor : pada bagian input data (assistant) ada kesalahan pengetikan. (clear)

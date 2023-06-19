@@ -1,0 +1,9 @@
+===============================
+	Jadwal	
+===============================
+1. Struktur Data	:	Kamis, 07.30 - 09.00
+2. Basis Data	:	Senin, 10.30 - 13.30
+3. Statistika Informatika	:	Selasa, 15.00 - 18.00
+4. Sistem Operasi	:	Selasa, 16.30 - 18.00
+5. Pemrograman Berorientasi Objek	:	Selasa, 16.30 - 18.00
+===============================
